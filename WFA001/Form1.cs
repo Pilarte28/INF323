@@ -23,5 +23,10 @@ namespace WFA001
             //HUOAOOOA
             int inf;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //www
+        }
     }
 }
