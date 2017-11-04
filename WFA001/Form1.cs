@@ -16,5 +16,10 @@ namespace WFA001
         {
             InitializeComponent();
         }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            //INF323
+        }
     }
 }
