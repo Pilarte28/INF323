@@ -20,6 +20,8 @@ namespace WFA001
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
             //INF323
+            //HUOAOOOA
+            int inf;
         }
     }
 }
